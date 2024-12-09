@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjlynch123&layout=compact&theme=tokyonight)
 
-![Visitors](https://img.shields.io/badge/dynamic/json?color=success&label=Visitors&query=value&url=https://api.countapi.xyz/hit/mjlynch123/Coding_Quiz)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mjlynch123&theme=tokyonight" alt="mystreak"/>
 
 
 
