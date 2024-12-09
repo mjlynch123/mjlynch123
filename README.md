@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - **Databases:** MongoDB, MySQL 
 
 ### Visitors
-<img src="https://profile-counter.glitch.me/{mjlynch123}/count.svg" alt="mjlynch123 :: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/{mjlynch123}/count.svg" alt="mjlynch123 :: Visitor's Count" style="text-align: center"/>
 
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mjlynch123&show_icons=true&theme=tokyonight)
@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjlynch123&layout=compact&theme=tokyonight)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjlynch123&theme=tokyonight" alt="mystreak"/>
+
+### Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=mjlynch123&theme=juicyfresh&no-bg=true" />
 
