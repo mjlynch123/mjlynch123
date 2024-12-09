@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - **Databases:** MongoDB, MySQL 
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mjlynch123&show_icons=true&theme=merko)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mjlynch123&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjlynch123&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjlynch123&layout=compact&theme=tokyonight)
 
 ![Visitors](https://img.shields.io/badge/dynamic/json?color=success&label=Visitors&query=value&url=https://api.countapi.xyz/hit/mjlynch123/Coding_Quiz)
 
