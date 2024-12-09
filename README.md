@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - **Databases:** MongoDB, MySQL 
 
 ### Visitors
-<img src="https://profile-counter.glitch.me/{mjlynch123}/count.svg" alt="mjlynch123 :: Visitor's Count" style="text-align: center"/>
+<img align="center" src="https://profile-counter.glitch.me/{mjlynch123}/count.svg" alt="mjlynch123 :: Visitor's Count"/>
 
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mjlynch123&show_icons=true&theme=tokyonight)
