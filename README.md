@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjlynch123&layout=compact&theme=radical)
 
-![Visitor Count](https://countapi.xyz/hit/mjlynch123/mjlynch123)
+![Visitors](https://img.shields.io/badge/dynamic/json?color=success&label=Visitors&query=value&url=https://api.countapi.xyz/hit/mjlynch123/mjlynch123)
+
 
 
