@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjlynch123&theme=tokyonight" alt="mystreak"/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=mjlynch123&theme=juicyfresh&no-bg=true" />
+
 
 
 
