@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - **Databases:** MongoDB, MySQL  -->
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ### Visitors
 <img align="center" src="https://profile-counter.glitch.me/{mjlynch123}/count.svg" alt="mjlynch123 :: Visitor's Count"/>
 
