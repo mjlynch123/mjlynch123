@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjlynch123&layout=compact&theme=radical)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mjlynch123.mjlynch123)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
