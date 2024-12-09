@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 - **Backend:** Express.js, Node.js  
 - **Databases:** MongoDB, MySQL 
 
+### Visitors
+<img src="https://profile-counter.glitch.me/{mjlynch123}/count.svg" alt="mjlynch123 :: Visitor's Count" />
+
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mjlynch123&show_icons=true&theme=tokyonight)
 
@@ -27,7 +30,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjlynch123&theme=tokyonight" alt="mystreak"/>
 
-<img src="https://profile-counter.glitch.me/{mjlynch123}/count.svg" alt="mjlynch123 :: Visitor's Count" />
 
 
 
