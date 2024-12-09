@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 💻 Technologies & Tools
-- **Languages:** JavaScript (Node.js), Python 
+<!-- - **Languages:** JavaScript (Node.js), Python 
 - **Frontend:** React, HTML/CSS, TailwindCSS  
 - **Backend:** Express.js, Node.js  
-- **Databases:** MongoDB, MySQL 
+- **Databases:** MongoDB, MySQL  -->
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Visitors
 <img align="center" src="https://profile-counter.glitch.me/{mjlynch123}/count.svg" alt="mjlynch123 :: Visitor's Count"/>
