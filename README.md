@@ -1,5 +1,5 @@
 ## Short Introduction
-Hi there! 👋 I’m a Full Stack Developer from Rockton, IL, with a passion for building dynamic and user-friendly web applications. My expertise lies in the MERN stack—especially Node.js, React, Express, and MySQL—but I’m always excited to learn something new and tackle unique challenges. Whether it’s collaborating on innovative projects or geeking out over the latest tech, I’d love to connect and create something amazing together! 🚀
+Hi there! 👋 I’m a Full Stack Developer from Northern Illinois, with a passion for building dynamic and user-friendly web applications. My expertise lies in the MERN stack—especially Node.js, React, Express, and MySQL—but I’m always excited to learn something new and tackle unique challenges. Whether it’s collaborating on innovative projects or geeking out over the latest tech, I’d love to connect and create something amazing together! 🚀
 
 
 <!--
