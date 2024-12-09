@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 💻 Technologies & Tools
+### 💻 Technologies
 <!-- - **Languages:** JavaScript (Node.js), Python 
 - **Frontend:** React, HTML/CSS, TailwindCSS  
 - **Backend:** Express.js, Node.js  
@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mjlynch123&show_icons=true&theme=tokyonight)
+
+### Most Favorite Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjlynch123&layout=compact&theme=tokyonight)
 
