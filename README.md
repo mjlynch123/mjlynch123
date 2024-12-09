@@ -2,7 +2,7 @@
 Hi there! 👋 I’m a Full Stack Developer from Northern Illinois, with a passion for building dynamic and user-friendly web applications. My expertise lies in the MERN stack—especially Node.js, React, Express, and MySQL—but I’m always excited to learn something new and tackle unique challenges. Whether it’s collaborating on innovative projects or geeking out over the latest tech, I’d love to connect and create something amazing together! 🚀
 
 ## Socials
-<a href="www.linkedin.com/in/martin-lynch-838976123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/martin-lynch-838976123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 <!--
