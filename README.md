@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjlynch123&layout=compact&theme=tokyonight)
 
+
+### Streak & Contributions
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjlynch123&theme=tokyonight" alt="mystreak"/>
 
 ### Trophies
