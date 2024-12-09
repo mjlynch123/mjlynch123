@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 💻 Technologies & Tools
-- **Languages:** JavaScript (Node.js), Python, Java  
+- **Languages:** JavaScript (Node.js), Python 
 - **Frontend:** React, HTML/CSS, TailwindCSS  
-- **Backend:** Express.js, Django, Flask  
-- **Databases:** PostgreSQL, MongoDB, MySQL 
+- **Backend:** Express.js, Node.js  
+- **Databases:** MongoDB, MySQL 
 
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mjlynch123&show_icons=true&theme=radical)
