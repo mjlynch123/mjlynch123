@@ -4,7 +4,8 @@ Hi there! 👋 I’m a Full Stack Developer from Northern Illinois, with a passi
 ## Socials
 <a href="https://www.linkedin.com/in/martin-lynch-838976123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-
+## What I am working on
+Currently I am learning C++ while working on side projects for web development
 <!--
 **mjlynch123/mjlynch123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
