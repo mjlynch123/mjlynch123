@@ -2,6 +2,12 @@
 Hello!
 I’m a Full Stack Developer from Northern Illinois, passionate about turning innovative ideas into engaging, real-world solutions. I love exploring new technologies, finding creative ways to tackle complex challenges, and collaborating with others who share a similar enthusiasm for building great software. Thanks for stopping by—feel free to explore my projects and get in touch!
 
+## My Stack
+- ReactJS
+- NodeJS
+- MySQL
+- Express
+
 ## Socials
 <a href="https://www.linkedin.com/in/martin-lynch-838976123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://codepen.io/mjlynch123/pens" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
