@@ -27,7 +27,7 @@ I’m a Full Stack Developer from Northern Illinois, passionate about turning in
 
 
 ### 🔥 Streak & Contributions
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mjlynch123&theme=tokyonight" alt="mystreak"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjlynch123&theme=tokyonight" alt="mystreak"/> -->
 
 ### 🏆 Trophies
 
