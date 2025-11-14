@@ -6,6 +6,7 @@ I’m a Full Stack Developer from Northern Illinois, passionate about turning in
 - ReactJS
 - NodeJS
 - MySQL
+- Express.js
 
 ## Socials
 <a href="https://www.linkedin.com/in/martin-lynch-838976123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
