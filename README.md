@@ -1,6 +1,9 @@
 ## Short Introduction
-Hello!
-I’m a Full Stack Developer from Northern Illinois, passionate about turning innovative ideas into engaging, real-world solutions. I love exploring new technologies, finding creative ways to tackle complex challenges, and collaborating with others who share a similar enthusiasm for building great software. Thanks for stopping by—feel free to explore my projects and get in touch!
+Hi, I’m Martin, a Full Stack Developer from Northern Illinois who enjoys building practical, real-world software from the ground up.
+
+I’m passionate about turning ideas into polished applications, solving complex problems, and learning new technologies along the way. Whether I’m working on a full-stack SaaS platform, improving user experience, or experimenting with a new tool, I enjoy creating software that is useful, clean, and built with purpose.
+
+Thanks for stopping by. Feel free to explore my projects or reach out if you’d like to connect.
 
 ## My Stack
 - ReactJS
