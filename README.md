@@ -1,7 +1,7 @@
 ## Short Introduction
 Hi, I’m Martin, a Full Stack Developer from Northern Illinois who enjoys building practical, real-world software from the ground up.
 
-I’m passionate about turning ideas into polished applications, solving complex problems, and learning new technologies along the way. Whether I’m working on a full-stack SaaS platform, improving user experience, or experimenting with a new tool, I enjoy creating software that is useful, clean, and built with purpose.
+I turn ideas into polished, purpose-driven applications that solve real problems and create meaningful user experiences. From building full-stack SaaS platforms to refining interfaces and exploring new technologies, I’m driven by the challenge of creating software that is clean, intuitive, and built to make an impact.
 
 Thanks for stopping by. Feel free to explore my projects or reach out if you’d like to connect.
 
